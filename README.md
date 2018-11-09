@@ -24,16 +24,12 @@ StalkNet: A Deep Learning Pipeline for High-Throughput Measurement of Plant Stal
 ### Disease
 
 ## Dataset
-IPPN plant phenotyping datasets [[Link]](https://www.plant-phenotyping.org/datasets-home)
-Plant village dataset [[Link]](https://www.plant-image-analysis.org/dataset)
-
-Fully Convolutional Networks with Sequential Information for Robust Crop and Weed Detection in Precision Farming [[Paper]](https://arxiv.org/pdf/1806.03412.pdf)
-
-EasyPCC [[Link]](https://www.mdpi.com/1424-8220/17/4/798/htm)
-
-A crop/weed field image dataset for the evaluation of computer vision based precision agriculture tasks [[Paper]](https://pdfs.semanticscholar.org/58a0/9b1351ddb447e6abdede7233a4794d538155.pdf)
+- IPPN plant phenotyping datasets [[Link]](https://www.plant-phenotyping.org/datasets-home)
+- Plant village dataset [[Link]](https://www.plant-image-analysis.org/dataset)
+- Fully Convolutional Networks with Sequential Information for Robust Crop and Weed Detection in Precision Farming [[Paper]](https://arxiv.org/pdf/1806.03412.pdf)
+- EasyPCC [[Link]](https://www.mdpi.com/1424-8220/17/4/798/htm)
+- A crop/weed field image dataset for the evaluation of computer vision based precision agriculture tasks [[Paper]](https://pdfs.semanticscholar.org/58a0/9b1351ddb447e6abdede7233a4794d538155.pdf)
 
 ### Tools 
-Deep Plant Phenomics [[Paper]](https://www.frontiersin.org/articles/10.3389/fpls.2017.01190/full)
-
-PlantCV [[Paper]](https://peerj.com/articles/4088/)
+- Deep Plant Phenomics [[Paper]](https://www.frontiersin.org/articles/10.3389/fpls.2017.01190/full)
+- PlantCV [[Paper]](https://peerj.com/articles/4088/)
