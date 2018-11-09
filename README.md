@@ -17,8 +17,7 @@ A curated list of papers related to plant phenotpying using deep learning and re
 
 
 ### Organ recognition
-StalkNet: A Deep Learning Pipeline for High-Throughput Measurement of Plant Stalk Count and Stalk Width [[arXiv](https://www.ri.cmu.edu/wp-content/uploads/2017/11/FSR.pdf)
-
+- StalkNet: A Deep Learning Pipeline for High-Throughput Measurement of Plant Stalk Count and Stalk Width [[arXiv](https://www.ri.cmu.edu/wp-content/uploads/2017/11/FSR.pdf)
 - Ear density estimation from high resolution RGB imagery using deep learning technique [[arXiv]](https://www.researchgate.net/publication/328512173_Ear_density_estimation_from_high_resolution_RGB_imagery_using_deep_learning_technique)
 
 ### Disease
