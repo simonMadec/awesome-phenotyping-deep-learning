@@ -12,7 +12,7 @@ A curated list of papers related to plant phenotpying using deep learning and re
 - TasselNet: Counting maize tassels in the wild via local counts regression network [[arXiv]](https://arxiv.org/abs/1707.02290)
 - Pheno-Deep Counter : [[Researchgate]](https://www.researchgate.net/publication/326991923_Pheno-Deep_Counter_a_unified_and_versatile_deep_learning_architecture_for_leaf_counting)
 - SFC²Net Rice Density estimation [[Link]](https://spj.sciencemag.org/journals/plantphenomics/2020/1375957/)
-- Benchmark Regression vs counting [[Link]](http://eprints.lincoln.ac.uk/id/eprint/44001/1/ALiCAT_RAL.pdf
+- Benchmark Regression vs counting [[Link]](http://eprints.lincoln.ac.uk/id/eprint/44001/1/ALiCAT_RAL.pdf)
 
 #### Object detection 
 - Ear density estimation from high resolution RGB imagery using deep learning technique [[arXiv]](https://www.researchgate.net/publication/328512173_Ear_density_estimation_from_high_resolution_RGB_imagery_using_deep_learning_technique)
