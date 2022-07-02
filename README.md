@@ -1,6 +1,9 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 # Awesome deep learning in crop field phenotyping
+
+2022 : Please note that this list is no longer edited 
+
 A curated list of papers related to plant phenotpying using deep learning and resources. We will try to select reproducibly methods with public datasets. Because a large numbers of papers have been published in controlled conditions, we focus here on field conditions. 
 
 
